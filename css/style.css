@@ -1,0 +1,9 @@
+/* 공통 주황 버튼 */
+.btn-common {
+  padding: 15px 30px;
+  font-size: 16px;
+  font-weight: 700;
+  background-color: #d97652;
+  border-radius: 40px;
+  color: #fff;
+}
